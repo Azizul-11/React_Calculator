@@ -3,7 +3,7 @@ import "./App.css"
 
 const App = () => {
 
-  const [input, setInput]=useState('5444');
+  const [input, setInput]=useState('');
 
   const calculateResult = (input) => {
     let result;
