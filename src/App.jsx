@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import "./App.css"
-import Error from './../../02_Second/src/React-Router/Error';
+
 const App = () => {
 
   const [input, setInput]=useState('5444');
